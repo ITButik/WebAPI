@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\bin\Debug\netcoreapp2.1\ITButikAPI.deps.json
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\bin\Debug\netcoreapp2.1\ITButikAPI.runtimeconfig.json
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\bin\Debug\netcoreapp2.1\ITButikAPI.runtimeconfig.dev.json
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\bin\Debug\netcoreapp2.1\ITButikAPI.dll
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\bin\Debug\netcoreapp2.1\ITButikAPI.pdb
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.AssemblyInfo.cs
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.dll
+C:\Users\user\source\repos\ITButikAPI\ITButikAPI\obj\Debug\netcoreapp2.1\ITButikAPI.pdb
